@@ -1,39 +1,45 @@
-Health Population Indicator Data Analysis\
-Shuja Sajjad
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide1.PNG)
 
-1.  What is the relationship between measles immunization rates and
-    infant mortality rates?
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide2.PNG)
 
-    a.  r value, visualization
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide3.PNG)
 
-2.  Is there a relationship between GNP and measles immunization rates?
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide4.PNG)
 
-    a.  r value, visualization
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide5.PNG)
 
-Analysis to be completed for USA, China, Germany, and Brazil.
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide6.PNG)
 
-In this project we conductive extensive data research, cleaning, and
-analysis of health indicator data of various countries. We decided upon
-using the latest data from the last decade for USA, China, Germany, and
-Brazil. We then calculated the statistical r values to quantify
-correlations between measles immunization rates, infant mortality rates,
-and national GNP rates.
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide7.PNG)
 
-![](media/image1.png){width="4.576208442694663in"
-height="2.5741174540682414in"}
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide8.PNG)
 
-In our immunization rates vs infant mortality analysis, all four of the
-countries analyzed had *negative r values*, indicating that while
-*immunization rates increased, infant mortality rates decreased.\
-*![](media/image2.png){width="3.205287620297463in"
-height="1.8029746281714785in"}
-![](media/image3.png){width="3.1788527996500435in"
-height="1.7881047681539808in"}
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide9.PNG)
 
-But in our immunization rates vs GNP analysis, all four of the countries
-analyzed had *positive r values*, indicating that while *GNP rates
-increased, immunization rates also increased*.
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide10.PNG)
 
-While further research and analysis is certainly required to establish a
-firm causative relationship, our research and analysis provided
-fascinating insights into the field of global health.
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide11.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide12.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide13.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide14.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide15.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide16.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide17.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide18.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide19.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide20.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide21.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide22.PNG)
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide23.PNG)
