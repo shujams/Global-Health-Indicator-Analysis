@@ -42,8 +42,6 @@
 
 ![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide22.PNG)
 
-<<<<<<< HEAD
 ![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide23.PNG)
-=======
-![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide23.PNG)
->>>>>>> 5e6aaeed5efb57e153595b487ea7248c7ea6d2bc
+
+![Slide](https://github.com/shujams/Global-Health-Indicator-Analysis/blob/master/slides/Slide24.PNG)
